@@ -4,8 +4,8 @@ title: Home
 ---
 
 # Welcome to My GitHub Pages Site
-This is a simple website hosted with GitHub Pages.
 
+11-18-2024
 Today I begin to learn Python Big Data development.
 
 Wish me GOOD LUCK!
