@@ -7,7 +7,7 @@ title: Home
 
 11-18-2024
 
-Today I begin to learn Python Big Data development.
+Today I begin to learn Python Big Data Development.
 
 Wish me GOOD LUCK!
 
